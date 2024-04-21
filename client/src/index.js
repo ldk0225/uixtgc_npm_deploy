@@ -1,4 +1,4 @@
 //ESM
-import { add } from "only-cjs-lib"
+import { add } from "tgc-npm-util-prc"
 
 console.log(add(1, 2));

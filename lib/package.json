@@ -1,5 +1,6 @@
 {
   "name": "tgc-npm-util-prc",
   "version": "0.0.0-tgc-onlycjs",
-  "main": "src/index.js"
+  "main": "src/index.js",
+  "type": "module"
 }

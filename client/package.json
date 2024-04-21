@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "only-cjs-lib": "0.0.0-tgc-onlycjs"
+    "tgc-npm-util-prc": "0.0.0-tgc-onlycjs"
   },
   "keywords": [],
   "author": "",
