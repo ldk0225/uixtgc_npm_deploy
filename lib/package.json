@@ -2,6 +2,9 @@
   "name": "tgc-npm-util-prc",
   "version": "0.0.0-tgc-ts",
   "main": "dist/index.js",
+  "bin": {
+    "calculate" : "src/cli.js"
+  },
   "type": "module",
   "exports": {
     ".": {
