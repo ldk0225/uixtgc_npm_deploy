@@ -1,12 +1,5 @@
 {
-  "name": "lib",
+  "name": "tgc-npm-util-prc",
   "version": "0.0.0-tgc-onlycjs",
-  "description": "",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "main": "src/index.js"
 }
