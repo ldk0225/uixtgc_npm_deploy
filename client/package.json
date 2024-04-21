@@ -8,9 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "tgc-npm-util-prc": "0.0.0-tgc-both"
+    "tgc-npm-util-prc": "0.0.0-tgc-ts"
   },
-  "keywords": [],
-  "author": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  },
   "license": "ISC"
 }
